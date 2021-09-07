@@ -1,7 +1,7 @@
 ### Oi, eu sou a Marina (●'◡'●)
 
 - 🎂 Idade: 19 anos
-- 📍  De São Paulo-Brasil
+- 📍   De São Paulo-Brasil
 - 📝 Estudante DEV Full Stack 
 - 🌱 Aprendendo JavaScript
 - 🤢 Dificuldade em Flexbox
