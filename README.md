@@ -5,10 +5,12 @@
 - 📍  De São Paulo-Brasil
 - 🌱 Aprendendo de tudo um pouco
 - 📫 Contate-me no email: marina.takahashi01@gmail.com
-
+<div style="display: inline_block"><br>
+<img align "right" alt="mari-icon" src="https://media.discordapp.net/attachments/926249778319351839/943343204063907950/mari_icon_gif.gif">
+</div>
 ##
 
-<div align="center">
+<div align ="center">
   <a href="https://github.com/poimaripoi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poimaripoi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poimaripoi&layout=compact&langs_count=7&theme=tokyonight"/>
