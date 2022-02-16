@@ -1,11 +1,14 @@
 ### Oi, eu sou a Marina (●'◡'●)
-<div align="letf">
-<p>- 📝 Designer UX Jr | DEV Web Jr | Técnica em Automação Industrial</p>
-<p>- 🎂 Idade: 19 anos</p>
-<p>- 📍  De São Paulo-Brasil</p>
-<p>- 🌱 Aprendendo de tudo um pouco</p>
-<p>- 📫 Contate-me no email: marina.takahashi01@gmail.com</p>
-</div>
+
+- 📝 Designer UX Jr | DEV Web Jr | Técnica em Automação Industrial
+- 🎂 Idade: 19 anos
+- 📍  De São Paulo-Brasil
+- 🌱 Aprendendo de tudo um pouco
+- 📫 Contate-me no email: marina.takahashi01@gmail.com
+
+]
+[
+]
 
 ##
 
