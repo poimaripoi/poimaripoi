@@ -6,10 +6,6 @@
 - 🌱 Aprendendo de tudo um pouco
 - 📫 Contate-me no email: marina.takahashi01@gmail.com
 
-]
-[
-]
-
 ##
 
 <div align="center">
