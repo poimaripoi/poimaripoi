@@ -1,12 +1,15 @@
 ### Oi, eu sou a Marina (●'◡'●)
+<div align="letf">
+<p>- 📝 Designer UX Jr | DEV Web Jr | Técnica em Automação Industrial</p>
+<p>- 🎂 Idade: 19 anos</p>
+<p>- 📍  De São Paulo-Brasil</p>
+<p>- 🌱 Aprendendo de tudo um pouco</p>
+<p>- 📫 Contate-me no email: marina.takahashi01@gmail.com</p>
+</div>
 
-- 📝 Designer UX Jr | DEV Web Jr | Técnica em Automação Industrial
-- 🎂 Idade: 19 anos
-- 📍  De São Paulo-Brasil
-- 🌱 Aprendendo de tudo um pouco
-- 📫 Contate-me no email: marina.takahashi01@gmail.com
+##
 
-<div align="row">
+<div align="center">
   <a href="https://github.com/poimaripoi">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=poimaripoi&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=poimaripoi&layout=compact&langs_count=7&theme=tokyonight"/>
