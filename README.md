@@ -1,6 +1,6 @@
 ### Oi, eu sou a Marina (●'◡'●)
 
-- 📝 Designer UX Jr | DEV Web Jr | Técnica em Automação Industrial
+- 📝 DEV Web Jr | Designer UX Jr | Técnica em Automação Industrial
 - 🎂 Idade: 19 anos
 - 📍  De São Paulo-Brasil
 - 🌱 Aprendendo de tudo um pouco
