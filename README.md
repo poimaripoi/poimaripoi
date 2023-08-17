@@ -1,8 +1,8 @@
 ### Oi, eu sou a Marina (●'◡'●)
 
-- 📝 DEV Web Jr | Assistente Designer UX | Técnica em Automação Industrial
-- 🎂 Idade: 20 anos
-- 📍  De São Paulo-Brasil
+- 📝 Assistente Designer UX | DEV Web Jr | Técnica em Automação Industrial
+- 🎂 Idade: 21 anos
+- 📍 De São Paulo-Brasil
 - 🌱 Aprendendo de tudo um pouco
 - 📫 Contate-me no email: marina.takahashi01@gmail.com
 
